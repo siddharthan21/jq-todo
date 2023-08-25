@@ -1,0 +1,29 @@
+*{
+    padding:0;
+    margin: 0;
+}
+.inputs{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+li{
+    list-style: none;
+}
+li{
+
+    display: flex;
+    gap: 10px;
+}
+/* ul{
+    border:  1px solid black;
+}
+li{
+    border-bottom: 1px solid black;
+} */
